@@ -1,0 +1,5 @@
+# активируй виртуалку (если есть)
+# Windows (пример): project\venv\Scripts\activate
+# mac/linux: source project/venv/bin/activate
+
+pip freeze > requirements.txt
